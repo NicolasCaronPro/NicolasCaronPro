@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasCaronPro
 - 👀 I’m interested in IA, image processing, signal processing, neural network
-- 🌱 I’m currently learning on the prediction of firemens intervention with Predictops. For now, i'm doing research on meteorological data
+- 🌱 I’m currently working on the prediction of forst fire.
 - 📫 How to reach me : nicolas.caronprowor@gmail.com
 
 <!---
