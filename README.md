@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasCaronPro
 - 👀 I’m interested in IA, image processing, signal processing, neural network
-- 🌱 I’m currently working on the prediction of forst fire.
+- 🌱 I’m currently working forest fire prediction 
 - 📫 How to reach me : nicolas.caronprowor@gmail.com
 
 <!---
